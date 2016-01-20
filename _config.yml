@@ -18,6 +18,7 @@ description: "Gaurav Ashtikar Resume"
 keywords: "Gaurav, Ashtikar, resume"
 url: http://gau1991.me
 baseurl: ""
+repo: http://github.com/gau1991/gau1991.github.io
 
 # Author settings
 author:
