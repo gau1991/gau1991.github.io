@@ -17,6 +17,7 @@ Sept 2016 – Present | Pune Area, India
 * Setting up scalable infrastructure using Docker
 * Build Debian and RPM packages using OmniBus
 * Conductiong various Workshops on Chef, Ansible
+
 <br>
 
 ##### Cloud Automation Engineer and Python Developer
