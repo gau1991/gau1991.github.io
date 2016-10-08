@@ -5,10 +5,34 @@ permalink: /resume/
 ---
 
 #### Professional:
+##### Senior Cloud Automation Engineer
+at <a style="color: #428bca" href="http://reancloud.com/">REAN Cloud</a><br>
+Sept 2016 – Present | Pune Area, India
+
+* Automation of infrastructure using Terraform and Ansible
+* Automation of day to day tasks using Chef
+* Setting up complete CI/CD Pipelines
+* Designing and Setting up AWS infrastructure
+* Setting up scalable infrastructure using Docker
+* Build Debian and RPM packages using OmniBus
+* Conductiong various Workshops on Chef, Ansible
+<br
+
+##### Cloud Automation Engineer and Python Developer
+at <a style="color: #428bca" href="http://opexsoftware.com/">Opex Softwares</a><br>
+April 2016 – August 2016 | Pune Area, India
+
+* Automation of day to day tasks Chef and Ansible
+* Automation of infrastructure using Terraform and Packer
+* Conductiong Chef, Ansible Trainings
+* Setup and Deploy Jenkins CI
+* Designing and Setting up AWS infrastructure
+
+<br>
 
 ##### Linux System Administrator
 at <a style="color: #428bca" href="https://rtcamp.com">rtcamp.com</a><br>
-May 2014 – Present | Pune Area, India
+May 2014 – March 2015 | Pune Area, India
 
 * Working as Linux (Ubuntu, Debian) Server/System Administrator.
 * Working in Linux Server/System installation, configuration, administration, troubleshooting, monitoring and backup & recovery methodologies.
@@ -72,6 +96,10 @@ May 2009 – June 2013 | Sangli Area, India
 
 Google Cloud, Amazon Web Services, Linode, Digital Ocean.
 
+##### Automation Tools:
+
+Chef, Ansible, Terraform, Packer
+
 ##### Virtualization Platforms:
 
 Vagrant, Docker
@@ -92,6 +120,9 @@ Nginx, PHP, HHVM, MariaDB
 
 ##### Languages:
 Python, Shell Script, PHP, CSS, HTML, C/C++
+
+##### Build Tools:
+Chef Omibus
 
 #####  System Administrator:
 Ubuntu, Debian
