@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 
 #### Professional:
+
 ##### Senior Cloud Automation Engineer
 at <a style="color: #428bca" href="http://reancloud.com/">REAN Cloud</a><br>
 Sept 2016 – Present | Pune Area, India
@@ -16,7 +17,7 @@ Sept 2016 – Present | Pune Area, India
 * Setting up scalable infrastructure using Docker
 * Build Debian and RPM packages using OmniBus
 * Conductiong various Workshops on Chef, Ansible
-<br
+<br>
 
 ##### Cloud Automation Engineer and Python Developer
 at <a style="color: #428bca" href="http://opexsoftware.com/">Opex Softwares</a><br>
@@ -54,7 +55,6 @@ July 2013 – May 2014 | Pune Area, India
 * Develop, configure and deploy various PHP based applications
 
 <br>
-
 
 #### Projects:
 <h5><a style="color: #428bca" href="https://easyengine.io">EasyEngine (ee)</a></h5>
