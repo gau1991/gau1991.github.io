@@ -10,10 +10,10 @@ permalink: /resume/
 at <a style="color: #428bca" href="http://reancloud.com/">REAN Cloud</a><br>
 Sept 2016 – Present | Pune Area, India
 
+* Designing and Setting up AWS infrastructure
 * Automation of infrastructure using Terraform and Ansible
 * Automation of day to day tasks using Chef
 * Setting up complete CI/CD Pipelines
-* Designing and Setting up AWS infrastructure
 * Setting up scalable infrastructure using Docker
 * Build Debian and RPM packages using OmniBus
 * Conductiong various Workshops on Chef, Ansible
@@ -57,6 +57,13 @@ July 2013 – May 2014 | Pune Area, India
 
 <br>
 
+#### Certifications:
+
+##### AWS Certified Solution Architect - Associate
+
+* Certificate Validation Number: E55KXZQC1J411LGP
+* Certificate Expiry Date: July 01, 2019
+
 #### Projects:
 <h5><a style="color: #428bca" href="https://easyengine.io">EasyEngine (ee)</a></h5>
 
@@ -95,7 +102,7 @@ May 2009 – June 2013 | Sangli Area, India
 
 ##### Cloud Services:
 
-Google Cloud, Amazon Web Services, Linode, Digital Ocean.
+Amazon Web Services, Google Cloud, Linode, Digital Ocean.
 
 ##### Automation Tools:
 
