@@ -64,6 +64,8 @@ July 2013 – May 2014 | Pune Area, India
 * Certificate Validation Number: E55KXZQC1J411LGP
 * Certificate Expiry Date: July 01, 2019
 
+<br>
+
 #### Projects:
 <h5><a style="color: #428bca" href="https://easyengine.io">EasyEngine (ee)</a></h5>
 

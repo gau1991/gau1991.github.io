@@ -1,7 +1,6 @@
 # Gaurav Ashtikar
 
-[My Personal Site](http://gau1991) built using [End2End](https://nandomoreira.me/end2end/) Jekyll theme
-
+[My Personal Site](http://gau1991.me) built using [End2End](https://nandomoreira.me/end2end/) Jekyll theme
 
 ---
 
