@@ -34,7 +34,7 @@ April 2016 – August 2016 | Pune Area, India
 
 ##### Linux System Administrator
 at <a style="color: #428bca" href="https://rtcamp.com">rtcamp.com</a><br>
-May 2014 – March 2015 | Pune Area, India
+May 2014 – March 2016 | Pune Area, India
 
 * Working as Linux (Ubuntu, Debian) Server/System Administrator.
 * Working in Linux Server/System installation, configuration, administration, troubleshooting, monitoring and backup & recovery methodologies.
